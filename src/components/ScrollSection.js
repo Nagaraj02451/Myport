@@ -53,7 +53,7 @@ function ScrollSection() {
                   EVEN App, Threejs, 3D design....I WILL UPDATE IT.</p>
                   <h1 className="yhugf" id="yyfu">Frontend Development</h1>
                   <h1 className="yhugf" id="yyfu">Backend Development</h1>
-                  <h1 className="yhugf" id="yyfu">Hoisting</h1>
+                  <h1 className="yhugf" id="yyfu">Hosting</h1>
                   <h1 className="yhugf" id="yyfu">Responsive Design</h1>
                   <h1 className="yhugf" id="yyfu">Responsive Layout</h1>
                   <h1 className="yhugf" id="yyfu">Responsive Layout</h1>
