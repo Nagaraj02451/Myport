@@ -1,0 +1,36 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@frank-mayer/react-tag-cloud": "^1.2.1",
+    "@next/font": "13.1.6",
+    "@studio-freight/lenis": "^1.0.42",
+    "aos": "^2.3.4",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "framer-motion": "^11.1.7",
+    "gsap": "^3.12.5",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-awesome-reveal": "^4.2.10",
+    "react-curved-text": "^3.0.1",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "^1.6.4",
+    "react-router-dom": "^6.23.1",
+    "react-scroll-to-top": "^3.0.0",
+    "react-type-animation": "^3.2.0",
+    "sass": "^1.76.0",
+    "scss": "^0.2.4",
+    "styled-components": "^6.1.9",
+    "swr": "^2.2.5",
+    "TagCloud": "^2.5.0",
+    "use-scramble": "^2.2.15"
+  }
+}
