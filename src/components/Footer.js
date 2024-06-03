@@ -47,7 +47,7 @@ function Footer({ link, link2 }) {
       <div className="Footerlast" id={link2}>
         <div className="inner">
           <div className="innerfooter">
-            <h1 className="headhgfy">Let's build something  <br />cool together!</h1>
+            <h1 className="headhgfy">Lets build something  <br />cool together!</h1>
             <div className="hgfv">
               <a href="https://www.linkedin.com/in/nagaraj-r-538297244"><p className="kojokjo">LinkedIN</p></a>
               <br />
