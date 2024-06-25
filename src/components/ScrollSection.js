@@ -66,14 +66,14 @@ function ScrollSection() {
                 <div className="w4srtyerdh">
                   <h1 className="yhugf">Frontend Development</h1>
                   <h1 className="yhugf">Backend Development</h1>
-                  <h1 className="yhugf">Hoisting</h1>
+                  <h1 className="yhugf">Hosting</h1>
                   <h1 className="yhugf">Responsive Design</h1>
                   <h1 className="yhugf">Responsive Layout</h1>
                   <h1 className="yhugf">DBMS</h1>
                   <h1 className="yhugf">Figma - UI/UX design</h1>
                   <h1 className="yhugf">2D,3D Animation</h1>
                   {/* <h1 className="yhugf">SEO</h1> */}
-                  <h1 className="yhugf">API design & development</h1>
+                  <h1 className="yhugf">REST API & development</h1>
                 </div>
               </div>
             </div>
