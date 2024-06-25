@@ -17,7 +17,7 @@ export const projects = [
       title: "#F5F5F5",
       one: "card1",
       two: "card22",
-      link: "https://awegany.netlify.app",
+      link: "https://aweooty.netlify.app/",
       details :{
         one :"Aweganyz",
         two :"Role : Frontend",
